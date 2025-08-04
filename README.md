@@ -2,7 +2,6 @@
 
 This is a simple and classic Rock, Paper, Scissors game built as a front-end web development project. The game allows a user to play against the computer, tracking scores and displaying the winner of each round.
 
-
 #### **Features**
 
 * **Interactive Gameplay:** Users can click on a choice (rock, paper, or scissors) to play a round against the computer.
@@ -30,11 +29,11 @@ To get a local copy of this project up and running, follow these simple steps:
 
 ##### 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/MuhammadArshadKhokhar/Rock-Paper-Scissors-Game.git
 
 ##### 2. Navigate to the project directory:
 
-cd your-repo-name
+cd Rock-Paper-Scissors-Game
 
 ##### **3. Open the file:**
 
